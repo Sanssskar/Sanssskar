@@ -30,7 +30,6 @@ const sanskar = {
   frontend    : ["HTML", "CSS", "JavaScript"],
   backend     : ["Python", "Laravel", "Filament", "PHP"],
   learning    : ["System Design", "DevOps", "Cloud"],
-  funFact     : "Dharan boy, global code 🏔️",
 };
 ```
 
