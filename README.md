@@ -57,18 +57,6 @@ const sanskar = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sanssskar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Sanskar's GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanssskar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
-
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -98,8 +86,8 @@ const sanskar = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shresthasanskar.com.np-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shresthasanskar.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanskar_Shrestha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Say_Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanskar_Shrestha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sanskar-shrestha-a750933b1/?skipRedirect=true))
+[![Email](https://img.shields.io/badge/Email-Say_Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shresthasakar85@gmail.com@gmail.com)
 
 </div>
 
