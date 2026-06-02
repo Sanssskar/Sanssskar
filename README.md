@@ -7,7 +7,7 @@
 
 <p>
   <b>Full Stack Developer</b> · Dharan, Koshi Province, Nepal 🇳🇵 🏔️<br/>
-  Turning caffeine into clean code — one commit at a time ☕
+Every line of code is a step toward something greater.
 </p>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shresthasanskar.com.np-58A6FF?style=for-the-badge)](https://shresthasanskar.com.np)
